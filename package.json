@@ -1,0 +1,18 @@
+{
+  "name": "node-api-shop",
+  "version": "1.0.0",
+  "description": "build a simple shop API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Darcy DeAngelo-Woolsey",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^5.0.7",
+    "morgan": "^1.9.0",
+    "multer": "^1.3.0"
+  }
+}

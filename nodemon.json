@@ -1,0 +1,6 @@
+{
+    "env": {
+        "MONGO_ATLAS_PW": "Bucketlist2!",
+        "JWT_KEY": "secret"
+    }
+}
